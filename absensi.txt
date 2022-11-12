@@ -1,4 +1,4 @@
 absensi raplen 1:
 
 David
-Ceje
+Ceje --> ternyata setelah absen langsung escape
