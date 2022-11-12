@@ -1,1 +1,3 @@
 init repo
+
+commit pertama setelah init repo
